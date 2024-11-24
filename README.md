@@ -1,1 +1,1 @@
-Windmill Washer placement spritesheet
+Windmill Washer placement Spritesheet
